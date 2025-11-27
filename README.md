@@ -1,6 +1,8 @@
 **Clasificación de fitopatógenos en cebolla larga (Allium fistulosum)**
 
 ==================================================================
+**NOTA: En este repositorio no se encuentra subido el dataset
+Ni el archivo de caracteristícas .NPZ**
 
 
 
@@ -9,6 +11,8 @@ Este proyecto implementa, entrena y compara distintos algoritmos de machine lear
 para la detección y clasificación de enfermedades en cebolla larga a partir de un
 
 dataset de imágenes.
+
+
 
 Link de Drive del Proyecto Completo: https://drive.google.com/drive/folders/1FBIKcmoI7_0FVo_eOfoUhAOrifghxm0d?usp=drive_link
 
