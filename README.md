@@ -12,6 +12,8 @@ dataset de imágenes.
 
 Link de Drive del Proyecto Completo: https://drive.google.com/drive/folders/1FBIKcmoI7_0FVo_eOfoUhAOrifghxm0d?usp=drive_link
 
+Link del Video Explicatorio: https://www.youtube.com/watch?v=LAt3KUxgebY
+
 
 
 Se utilizan modelos clásicos:
